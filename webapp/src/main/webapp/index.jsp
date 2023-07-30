@@ -14,7 +14,7 @@
 	font-size:20px;
 }
 </style>
-      <title>Hello, Welcome Gear Live!!! </title>
+      <title>Hello, Welcome INDIA !!! </title>
    </head>
    
    <body>
