@@ -14,7 +14,7 @@
 	font-size:20px;
 }
 </style>
-      <title>Hello, Welcome INDIA !!! </title>
+      <title>Hello, Welcome to WRNGL` !!! </title>
    </head>
    
    <body>
