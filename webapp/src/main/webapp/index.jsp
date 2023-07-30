@@ -14,11 +14,11 @@
 	font-size:20px;
 }
 </style>
-      <title>Hello, Welcome VANDEMATARAM !!! </title>
+      <title>Hello, Welcome india !!! </title>
    </head>
    
    <body>
-          <h1> welcome to BHARATH </h1> 
+          <h1> welcome to hyd </h1> 
 	   <center>
          <%
             // Set refresh, autoload time as 10 seconds
