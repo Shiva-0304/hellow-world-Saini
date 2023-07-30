@@ -18,7 +18,8 @@
    </head>
    
    <body>
-      <center>
+          <h1> welcome to BHARATH </h1> 
+	   <center>
          <%
             // Set refresh, autoload time as 10 seconds
             response.setIntHeader("Refresh", 10);
