@@ -1,6 +1,6 @@
 <h1> Welcome to DevOps training  !!! </h1>
 <h2> DevOps CI/CD pipeline using Maven,Jenkins,Ansible,Docker,Git and kubernetes !!!</h2>
-<h2> This is build on 16th July 2023</h2>
+<h2> This is build on 23rd Sept 2023</h2>
 <h2> Testing from minikube  </h2>
 <h2> updated removing images from ansible-server and replicas 3</h2>
 <%@ page import = "java.io.*,java.util.*" %>
